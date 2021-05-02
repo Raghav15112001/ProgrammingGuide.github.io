@@ -41,6 +41,7 @@ main {
 h2 {
     text-align: center;
     padding: 20px;
+    background-color: rgb(200, 255, 0);
 }
 
 section:nth-child(even) {
